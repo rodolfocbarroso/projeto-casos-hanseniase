@@ -1,0 +1,544 @@
+UF de notificação;Ano;Ignorado;Masculino;Feminino
+11 Rondônia;2001;-;783;506
+12 Acre;2001;-;279;176
+13 Amazonas;2001;-;881;579
+14 Roraima;2001;-;220;134
+15 Pará;2001;19;3601;2200
+16 Amapá;2001;-;104;50
+17 Tocantins;2001;-;792;510
+21 Maranhão;2001;14;2939;2140
+22 Piauí;2001;6;947;1016
+23 Ceará;2001;3;1534;1420
+24 Rio Grande do Norte;2001;-;121;132
+25 Paraíba;2001;-;423;469
+26 Pernambuco;2001;5;1655;1786
+27 Alagoas;2001;-;197;184
+28 Sergipe;2001;-;170;157
+29 Bahia;2001;2;1232;1259
+31 Minas Gerais;2001;-;1590;1409
+32 Espírito Santo;2001;-;828;757
+33 Rio de Janeiro;2001;1;1602;1640
+35 São Paulo;2001;1;1974;1563
+41 Paraná;2001;12;1023;750
+42 Santa Catarina;2001;-;111;86
+43 Rio Grande do Sul;2001;-;117;114
+50 Mato Grosso do Sul;2001;-;366;252
+51 Mato Grosso;2001;8;2373;1600
+52 Goiás;2001;6;1871;1472
+53 Distrito Federal;2001;-;276;225
+11 Rondônia;2002;-;796;574
+12 Acre;2002;-;236;185
+13 Amazonas;2002;-;934;625
+14 Roraima;2002;-;226;147
+15 Pará;2002;14;4048;2652
+16 Amapá;2002;-;153;65
+17 Tocantins;2002;-;804;580
+21 Maranhão;2002;9;3181;2323
+22 Piauí;2002;4;953;895
+23 Ceará;2002;4;1423;1363
+24 Rio Grande do Norte;2002;-;133;139
+25 Paraíba;2002;1;455;518
+26 Pernambuco;2002;2;1780;1942
+27 Alagoas;2002;-;204;236
+28 Sergipe;2002;-;257;243
+29 Bahia;2002;1;1344;1362
+31 Minas Gerais;2002;-;1898;1815
+32 Espírito Santo;2002;-;896;923
+33 Rio de Janeiro;2002;2;1867;1891
+35 São Paulo;2002;2;1974;1488
+41 Paraná;2002;3;1122;853
+42 Santa Catarina;2002;1;144;114
+43 Rio Grande do Sul;2002;-;146;145
+50 Mato Grosso do Sul;2002;2;396;293
+51 Mato Grosso;2002;-;2379;1638
+52 Goiás;2002;11;2043;1718
+53 Distrito Federal;2002;-;305;232
+11 Rondônia;2003;-;867;684
+12 Acre;2003;-;285;193
+13 Amazonas;2003;-;770;535
+14 Roraima;2003;-;231;142
+15 Pará;2003;-;4225;2878
+16 Amapá;2003;-;181;92
+17 Tocantins;2003;-;843;671
+21 Maranhão;2003;-;3349;2424
+22 Piauí;2003;2;1097;988
+23 Ceará;2003;-;1629;1592
+24 Rio Grande do Norte;2003;-;139;141
+25 Paraíba;2003;1;477;547
+26 Pernambuco;2003;-;2055;2135
+27 Alagoas;2003;-;287;314
+28 Sergipe;2003;-;347;322
+29 Bahia;2003;-;1775;1847
+31 Minas Gerais;2003;-;1887;1786
+32 Espírito Santo;2003;-;1001;936
+33 Rio de Janeiro;2003;-;1730;1657
+35 São Paulo;2003;-;1986;1608
+41 Paraná;2003;-;1107;950
+42 Santa Catarina;2003;-;175;121
+43 Rio Grande do Sul;2003;-;129;134
+50 Mato Grosso do Sul;2003;-;428;372
+51 Mato Grosso;2003;-;2537;1821
+52 Goiás;2003;-;2202;1737
+53 Distrito Federal;2003;-;282;236
+11 Rondônia;2004;-;843;660
+12 Acre;2004;-;240;134
+13 Amazonas;2004;-;752;498
+14 Roraima;2004;-;225;117
+15 Pará;2004;1;4168;2753
+16 Amapá;2004;-;151;82
+17 Tocantins;2004;-;954;580
+21 Maranhão;2004;1;3386;2644
+22 Piauí;2004;-;1050;920
+23 Ceará;2004;-;1561;1515
+24 Rio Grande do Norte;2004;-;175;191
+25 Paraíba;2004;-;490;518
+26 Pernambuco;2004;-;1954;1978
+27 Alagoas;2004;-;229;275
+28 Sergipe;2004;-;310;352
+29 Bahia;2004;-;2065;2290
+31 Minas Gerais;2004;-;1762;1664
+32 Espírito Santo;2004;-;916;798
+33 Rio de Janeiro;2004;1;1666;1627
+35 São Paulo;2004;1;1897;1369
+41 Paraná;2004;-;1174;931
+42 Santa Catarina;2004;-;164;136
+43 Rio Grande do Sul;2004;-;118;151
+50 Mato Grosso do Sul;2004;-;452;338
+51 Mato Grosso;2004;-;2293;1643
+52 Goiás;2004;-;2255;1665
+53 Distrito Federal;2004;-;245;212
+11 Rondônia;2005;1;789;647
+12 Acre;2005;-;249;154
+13 Amazonas;2005;-;752;387
+14 Roraima;2005;-;191;124
+15 Pará;2005;-;3781;2571
+16 Amapá;2005;-;143;68
+17 Tocantins;2005;-;833;652
+21 Maranhão;2005;-;3633;2864
+22 Piauí;2005;-;1097;981
+23 Ceará;2005;-;1567;1542
+24 Rio Grande do Norte;2005;-;231;307
+25 Paraíba;2005;-;544;587
+26 Pernambuco;2005;-;1868;2003
+27 Alagoas;2005;-;244;274
+28 Sergipe;2005;-;364;406
+29 Bahia;2005;1;2031;2077
+31 Minas Gerais;2005;-;1730;1538
+32 Espírito Santo;2005;-;880;767
+33 Rio de Janeiro;2005;-;1526;1503
+35 São Paulo;2005;1;1780;1390
+41 Paraná;2005;1;1051;860
+42 Santa Catarina;2005;-;153;129
+43 Rio Grande do Sul;2005;-;143;134
+50 Mato Grosso do Sul;2005;-;410;290
+51 Mato Grosso;2005;-;2449;1739
+52 Goiás;2005;-;2220;1631
+53 Distrito Federal;2005;-;272;191
+11 Rondônia;2006;-;839;692
+12 Acre;2006;-;336;274
+13 Amazonas;2006;-;668;384
+14 Roraima;2006;-;188;130
+15 Pará;2006;-;3466;2304
+16 Amapá;2006;-;149;94
+17 Tocantins;2006;-;914;748
+21 Maranhão;2006;1;3122;2369
+22 Piauí;2006;-;955;910
+23 Ceará;2006;-;1416;1311
+24 Rio Grande do Norte;2006;-;171;181
+25 Paraíba;2006;-;525;547
+26 Pernambuco;2006;-;1847;2006
+27 Alagoas;2006;-;237;264
+28 Sergipe;2006;-;334;336
+29 Bahia;2006;-;1856;1853
+31 Minas Gerais;2006;-;1573;1272
+32 Espírito Santo;2006;-;698;653
+33 Rio de Janeiro;2006;1;1556;1478
+35 São Paulo;2006;-;1535;1199
+41 Paraná;2006;-;989;849
+42 Santa Catarina;2006;-;149;116
+43 Rio Grande do Sul;2006;-;132;130
+50 Mato Grosso do Sul;2006;-;431;269
+51 Mato Grosso;2006;-;2158;1546
+52 Goiás;2006;-;2067;1609
+53 Distrito Federal;2006;-;226;188
+11 Rondônia;2007;-;759;603
+12 Acre;2007;-;219;97
+13 Amazonas;2007;-;570;348
+14 Roraima;2007;-;160;108
+15 Pará;2007;-;3277;1987
+16 Amapá;2007;-;104;67
+17 Tocantins;2007;-;870;678
+21 Maranhão;2007;-;2849;2041
+22 Piauí;2007;-;870;814
+23 Ceará;2007;-;1517;1305
+24 Rio Grande do Norte;2007;-;193;236
+25 Paraíba;2007;-;462;469
+26 Pernambuco;2007;-;1667;1809
+27 Alagoas;2007;-;241;204
+28 Sergipe;2007;-;324;326
+29 Bahia;2007;1;1715;1653
+31 Minas Gerais;2007;-;1359;1079
+32 Espírito Santo;2007;-;680;645
+33 Rio de Janeiro;2007;1;1308;1222
+35 São Paulo;2007;-;1527;1080
+41 Paraná;2007;-;887;660
+42 Santa Catarina;2007;-;148;109
+43 Rio Grande do Sul;2007;-;106;120
+50 Mato Grosso do Sul;2007;-;400;265
+51 Mato Grosso;2007;-;2039;1354
+52 Goiás;2007;-;1818;1354
+53 Distrito Federal;2007;-;209;182
+11 Rondônia;2008;-;721;530
+12 Acre;2008;-;199;99
+13 Amazonas;2008;-;577;382
+14 Roraima;2008;-;146;86
+15 Pará;2008;1;3334;2224
+16 Amapá;2008;-;154;94
+17 Tocantins;2008;-;916;744
+21 Maranhão;2008;-;3069;2083
+22 Piauí;2008;1;1157;1154
+23 Ceará;2008;-;1537;1326
+24 Rio Grande do Norte;2008;-;145;177
+25 Paraíba;2008;-;432;456
+26 Pernambuco;2008;-;1684;1636
+27 Alagoas;2008;-;214;240
+28 Sergipe;2008;-;272;265
+29 Bahia;2008;-;1774;1627
+31 Minas Gerais;2008;-;1237;935
+32 Espírito Santo;2008;-;696;564
+33 Rio de Janeiro;2008;-;1252;1117
+35 São Paulo;2008;-;1561;1080
+41 Paraná;2008;-;879;665
+42 Santa Catarina;2008;-;164;83
+43 Rio Grande do Sul;2008;-;128;99
+50 Mato Grosso do Sul;2008;-;434;296
+51 Mato Grosso;2008;-;1854;1328
+52 Goiás;2008;-;1950;1320
+53 Distrito Federal;2008;-;212;172
+11 Rondônia;2009;-;700;528
+12 Acre;2009;-;187;102
+13 Amazonas;2009;-;586;319
+14 Roraima;2009;-;130;60
+15 Pará;2009;-;3028;2039
+16 Amapá;2009;-;168;99
+17 Tocantins;2009;-;808;577
+21 Maranhão;2009;-;2791;1942
+22 Piauí;2009;-;956;761
+23 Ceará;2009;-;1373;1242
+24 Rio Grande do Norte;2009;-;174;181
+25 Paraíba;2009;-;448;426
+26 Pernambuco;2009;-;1806;1841
+27 Alagoas;2009;-;213;268
+28 Sergipe;2009;-;316;298
+29 Bahia;2009;1;1771;1600
+31 Minas Gerais;2009;-;1211;863
+32 Espírito Santo;2009;-;638;586
+33 Rio de Janeiro;2009;1;1260;1068
+35 São Paulo;2009;-;1363;1024
+41 Paraná;2009;-;778;638
+42 Santa Catarina;2009;-;131;94
+43 Rio Grande do Sul;2009;-;98;110
+50 Mato Grosso do Sul;2009;-;455;331
+51 Mato Grosso;2009;-;1819;1335
+52 Goiás;2009;-;1849;1395
+53 Distrito Federal;2009;1;202;164
+11 Rondônia;2010;;606;474
+12 Acre;2010;;168;108
+13 Amazonas;2010;;586;297
+14 Roraima;2010;;118;43
+15 Pará;2010;;2794;1781
+16 Amapá;2010;;131;57
+17 Tocantins;2010;;778;537
+21 Maranhão;2010;;2840;2048
+22 Piauí;2010;;981;885
+23 Ceará;2010;;1374;1102
+24 Rio Grande do Norte;2010;;165;147
+25 Paraíba;2010;;398;363
+26 Pernambuco;2010;;1618;1662
+27 Alagoas;2010;;237;242
+28 Sergipe;2010;;265;229
+29 Bahia;2010;;1681;1558
+31 Minas Gerais;2010;;1066;744
+32 Espírito Santo;2010;;603;521
+33 Rio de Janeiro;2010;;1120;1033
+35 São Paulo;2010;;1295;952
+41 Paraná;2010;;783;520
+42 Santa Catarina;2010;;129;113
+43 Rio Grande do Sul;2010;;98;82
+50 Mato Grosso do Sul;2010;;475;346
+51 Mato Grosso;2010;;1846;1303
+52 Goiás;2010;;1739;1256
+53 Distrito Federal;2010;;188;151
+11 Rondônia;2011;-;592;405
+12 Acre;2011;-;163;97
+13 Amazonas;2011;-;472;284
+14 Roraima;2011;-;101;40
+15 Pará;2011;-;2869;1817
+16 Amapá;2011;-;146;82
+17 Tocantins;2011;-;768;486
+21 Maranhão;2011;-;2703;1987
+22 Piauí;2011;-;774;672
+23 Ceará;2011;-;1331;961
+24 Rio Grande do Norte;2011;-;170;132
+25 Paraíba;2011;-;465;398
+26 Pernambuco;2011;-;1629;1570
+27 Alagoas;2011;-;220;228
+28 Sergipe;2011;-;241;277
+29 Bahia;2011;-;1684;1553
+31 Minas Gerais;2011;1;1033;742
+32 Espírito Santo;2011;-;634;498
+33 Rio de Janeiro;2011;-;1143;958
+35 São Paulo;2011;-;1226;966
+41 Paraná;2011;1;750;475
+42 Santa Catarina;2011;-;161;116
+43 Rio Grande do Sul;2011;-;98;95
+50 Mato Grosso do Sul;2011;-;531;430
+51 Mato Grosso;2011;-;1881;1403
+52 Goiás;2011;-;1614;1114
+53 Distrito Federal;2011;-;159;147
+11 Rondônia;2012;-;584;366
+12 Acre;2012;-;139;66
+13 Amazonas;2012;-;530;293
+14 Roraima;2012;-;136;47
+15 Pará;2012;1;2922;1782
+16 Amapá;2012;-;126;78
+17 Tocantins;2012;1;720;501
+21 Maranhão;2012;-;2788;1976
+22 Piauí;2012;-;780;595
+23 Ceará;2012;-;1367;1059
+24 Rio Grande do Norte;2012;-;176;191
+25 Paraíba;2012;-;426;411
+26 Pernambuco;2012;-;1595;1539
+27 Alagoas;2012;-;257;273
+28 Sergipe;2012;-;294;268
+29 Bahia;2012;1;1688;1376
+31 Minas Gerais;2012;-;1015;690
+32 Espírito Santo;2012;-;494;381
+33 Rio de Janeiro;2012;-;1006;832
+35 São Paulo;2012;-;1283;850
+41 Paraná;2012;-;679;508
+42 Santa Catarina;2012;-;157;106
+43 Rio Grande do Sul;2012;-;118;80
+50 Mato Grosso do Sul;2012;-;596;483
+51 Mato Grosso;2012;-;1888;1368
+52 Goiás;2012;1;1588;1079
+53 Distrito Federal;2012;1;190;153
+11 Rondônia;2013;-;519;361
+12 Acre;2013;-;106;52
+13 Amazonas;2013;-;509;330
+14 Roraima;2013;-;99;64
+15 Pará;2013;-;2559;1525
+16 Amapá;2013;-;108;70
+17 Tocantins;2013;-;632;481
+21 Maranhão;2013;-;2681;2092
+22 Piauí;2013;-;668;632
+23 Ceará;2013;1;1425;993
+24 Rio Grande do Norte;2013;-;159;164
+25 Paraíba;2013;-;427;343
+26 Pernambuco;2013;-;1602;1572
+27 Alagoas;2013;1;202;217
+28 Sergipe;2013;-;235;221
+29 Bahia;2013;1;1432;1304
+31 Minas Gerais;2013;-;863;603
+32 Espírito Santo;2013;-;463;360
+33 Rio de Janeiro;2013;-;842;708
+35 São Paulo;2013;-;1157;810
+41 Paraná;2013;-;634;448
+42 Santa Catarina;2013;-;118;77
+43 Rio Grande do Sul;2013;-;104;84
+50 Mato Grosso do Sul;2013;-;538;453
+51 Mato Grosso;2013;-;1948;1601
+52 Goiás;2013;-;1390;959
+53 Distrito Federal;2013;-;191;124
+11 Rondônia;2014;-;456;361
+12 Acre;2014;-;108;47
+13 Amazonas;2014;-;427;293
+14 Roraima;2014;-;65;32
+15 Pará;2014;-;2500;1588
+16 Amapá;2014;-;129;63
+17 Tocantins;2014;-;727;522
+21 Maranhão;2014;1;2584;1898
+22 Piauí;2014;-;759;606
+23 Ceará;2014;1;1340;1029
+24 Rio Grande do Norte;2014;-;159;161
+25 Paraíba;2014;-;387;331
+26 Pernambuco;2014;-;1558;1581
+27 Alagoas;2014;-;200;205
+28 Sergipe;2014;-;247;237
+29 Bahia;2014;-;1697;1487
+31 Minas Gerais;2014;-;846;591
+32 Espírito Santo;2014;-;406;314
+33 Rio de Janeiro;2014;-;765;667
+35 São Paulo;2014;-;1082;821
+41 Paraná;2014;-;529;398
+42 Santa Catarina;2014;-;127;69
+43 Rio Grande do Sul;2014;-;104;84
+50 Mato Grosso do Sul;2014;-;644;641
+51 Mato Grosso;2014;-;2088;1724
+52 Goiás;2014;-;1355;931
+53 Distrito Federal;2014;-;255;219
+11 Rondônia;2015;-;421;274
+12 Acre;2015;-;96;47
+13 Amazonas;2015;1;427;219
+14 Roraima;2015;-;87;28
+15 Pará;2015;-;2417;1415
+16 Amapá;2015;-;99;56
+17 Tocantins;2015;-;648;421
+21 Maranhão;2015;-;2651;1784
+22 Piauí;2015;-;736;585
+23 Ceará;2015;-;1267;890
+24 Rio Grande do Norte;2015;-;160;147
+25 Paraíba;2015;-;355;290
+26 Pernambuco;2015;-;1485;1371
+27 Alagoas;2015;-;217;212
+28 Sergipe;2015;-;232;218
+29 Bahia;2015;-;1564;1506
+31 Minas Gerais;2015;1;782;588
+32 Espírito Santo;2015;-;396;313
+33 Rio de Janeiro;2015;-;758;625
+35 São Paulo;2015;-;975;708
+41 Paraná;2015;-;594;346
+42 Santa Catarina;2015;-;116;90
+43 Rio Grande do Sul;2015;-;73;85
+50 Mato Grosso do Sul;2015;-;521;419
+51 Mato Grosso;2015;-;2099;1748
+52 Goiás;2015;-;1241;891
+53 Distrito Federal;2015;-;196;164
+11 Rondônia;2016;-;330;249
+12 Acre;2016;-;89;47
+13 Amazonas;2016;-;356;216
+14 Roraima;2016;-;72;35
+15 Pará;2016;1;2043;1149
+16 Amapá;2016;-;81;44
+17 Tocantins;2016;-;939;785
+21 Maranhão;2016;-;2427;1769
+22 Piauí;2016;-;661;485
+23 Ceará;2016;-;1231;803
+24 Rio Grande do Norte;2016;-;115;107
+25 Paraíba;2016;-;296;234
+26 Pernambuco;2016;1;1232;1187
+27 Alagoas;2016;-;177;145
+28 Sergipe;2016;-;196;158
+29 Bahia;2016;-;1322;1234
+31 Minas Gerais;2016;-;796;583
+32 Espírito Santo;2016;1;285;225
+33 Rio de Janeiro;2016;-;645;496
+35 São Paulo;2016;-;992;778
+41 Paraná;2016;-;475;293
+42 Santa Catarina;2016;-;120;71
+43 Rio Grande do Sul;2016;-;93;60
+50 Mato Grosso do Sul;2016;-;334;226
+51 Mato Grosso;2016;-;1849;1691
+52 Goiás;2016;-;1092;716
+53 Distrito Federal;2016;-;177;116
+11 Rondônia;2017;;378;251
+12 Acre;2017;;112;54
+13 Amazonas;2017;;353;212
+14 Roraima;2017;;123;75
+15 Pará;2017;;2092;1278
+16 Amapá;2017;;98;52
+17 Tocantins;2017;;942;740
+21 Maranhão;2017;;2506;1855
+22 Piauí;2017;;731;639
+23 Ceará;2017;;1087;767
+24 Rio Grande do Norte;2017;;180;117
+25 Paraíba;2017;;342;261
+26 Pernambuco;2017;;1631;1552
+27 Alagoas;2017;;211;191
+28 Sergipe;2017;;260;204
+29 Bahia;2017;;1538;1307
+31 Minas Gerais;2017;;795;618
+32 Espírito Santo;2017;;334;226
+33 Rio de Janeiro;2017;;679;514
+35 São Paulo;2017;;953;661
+41 Paraná;2017;;457;294
+42 Santa Catarina;2017;;106;57
+43 Rio Grande do Sul;2017;;91;79
+50 Mato Grosso do Sul;2017;;377;194
+51 Mato Grosso;2017;;2246;2077
+52 Goiás;2017;;1098;677
+53 Distrito Federal;2017;;135;118
+11 Rondônia;2018;-;459;402
+12 Acre;2018;-;97;56
+13 Amazonas;2018;-;330;200
+14 Roraima;2018;-;89;47
+15 Pará;2018;-;2084;1365
+16 Amapá;2018;-;108;50
+17 Tocantins;2018;-;1129;1016
+21 Maranhão;2018;-;2408;1740
+22 Piauí;2018;-;720;615
+23 Ceará;2018;-;1271;816
+24 Rio Grande do Norte;2018;-;173;133
+25 Paraíba;2018;-;370;288
+26 Pernambuco;2018;2;1640;1443
+27 Alagoas;2018;-;239;217
+28 Sergipe;2018;-;239;199
+29 Bahia;2018;1;1490;1234
+31 Minas Gerais;2018;1;787;594
+32 Espírito Santo;2018;-;314;236
+33 Rio de Janeiro;2018;-;660;539
+35 São Paulo;2018;-;994;670
+41 Paraná;2018;-;437;298
+42 Santa Catarina;2018;-;110;65
+43 Rio Grande do Sul;2018;-;111;75
+50 Mato Grosso do Sul;2018;-;329;186
+51 Mato Grosso;2018;1;2847;2965
+52 Goiás;2018;-;1126;668
+53 Distrito Federal;2018;-;153;114
+11 Rondônia;2019;-;365;268
+12 Acre;2019;-;90;43
+13 Amazonas;2019;-;314;207
+14 Roraima;2019;-;70;51
+15 Pará;2019;-;2225;1333
+16 Amapá;2019;-;115;50
+17 Tocantins;2019;-;1094;933
+21 Maranhão;2019;-;2610;1745
+22 Piauí;2019;-;703;481
+23 Ceará;2019;1;1211;739
+24 Rio Grande do Norte;2019;-;132;104
+25 Paraíba;2019;-;418;360
+26 Pernambuco;2019;-;1757;1590
+27 Alagoas;2019;1;185;188
+28 Sergipe;2019;-;209;180
+29 Bahia;2019;-;1436;1146
+31 Minas Gerais;2019;-;896;612
+32 Espírito Santo;2019;1;353;306
+33 Rio de Janeiro;2019;-;648;503
+35 São Paulo;2019;-;908;712
+41 Paraná;2019;-;463;300
+42 Santa Catarina;2019;-;144;83
+43 Rio Grande do Sul;2019;-;81;67
+50 Mato Grosso do Sul;2019;-;400;251
+51 Mato Grosso;2019;-;2794;2895
+52 Goiás;2019;-;1081;725
+53 Distrito Federal;2019;-;157;130
+11 Rondônia;2020;;258;190
+12 Acre;2020;;58;28
+13 Amazonas;2020;;189;99
+14 Roraima;2020;;31;19
+15 Pará;2020;;1339;764
+16 Amapá;2020;;59;40
+17 Tocantins;2020;;640;473
+21 Maranhão;2020;;1538;1022
+22 Piauí;2020;;365;221
+23 Ceará;2020;;787;469
+24 Rio Grande do Norte;2020;;109;86
+25 Paraíba;2020;;225;147
+26 Pernambuco;2020;;1051;955
+27 Alagoas;2020;;152;102
+28 Sergipe;2020;;174;134
+29 Bahia;2020;;780;546
+31 Minas Gerais;2020;;564;391
+32 Espírito Santo;2020;;71;43
+33 Rio de Janeiro;2020;;399;283
+35 São Paulo;2020;;553;391
+41 Paraná;2020;;326;168
+42 Santa Catarina;2020;;98;58
+43 Rio Grande do Sul;2020;;46;35
+50 Mato Grosso do Sul;2020;;203;148
+51 Mato Grosso;2020;;1675;1514
+52 Goiás;2020;;621;433
+53 Distrito Federal;2020;;145;139
+
+
+
